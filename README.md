@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr15tan01
 - 👀 I’m interested in JavaScript and it's ecosystem
-- 🌱 I’m currently learning Redux and GraphQL
+- 🌱 I’m currently learning Angular and .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: t.varamashvili@gmail.com
 
