@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr15tan01
 - 👀 I’m interested in JavaScript and its ecosystem
-- 🌱 I’m currently learning Angular and .NET
+- 🌱 I’m currently learning Angular and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: t.varamashvili@gmail.com
 
